@@ -9,7 +9,8 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "Lesson.dart"
-        }
+            "program": "ders5.dart",
+            "console": "terminal"
+        }   
     ]
 }
